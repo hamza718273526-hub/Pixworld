@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: admin@pixelplanet.fun\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-06-24 07:30+0000\n"
+"PO-Revision-Date: 2026-10-04 23:12+0000\n"
 "Last-Translator: Extreme Motorsex <em@noreply.pixelplanet.fun>\n"
 "Language-Team: Albanian <https://translate.gs-os.com/projects/ppfun/server/"
 "sq/>\n"
@@ -64,7 +64,7 @@ msgid "Avatar can only be an image"
 msgstr "Avatari mund të jetë vetëm një imazh"
 
 msgid "Avatar not given or not an image"
-msgstr "Avatari nuk është japur ose nuk është imazh"
+msgstr "Avatari nuk është dhënë ose nuk është imazh"
 
 msgid "Black and White canvas"
 msgstr "Kanavacë Bardhë e Zi"
@@ -76,7 +76,7 @@ msgid "Can not change a role that is equal to your own"
 msgstr "Nuk mund të ndryshosh një rol që eshtë i barabartë me tëndin"
 
 msgid "Can not change the default setting of this role"
-msgstr "Nuk mund të ndryshosh cilësimet e parazgjedhura të ktij roli"
+msgstr "Nuk mund të ndryshosh cilësimet e parazgjedhura të këtij roli"
 
 msgid "Can not change the powerlevel of a role equal or above you"
 msgstr ""
@@ -99,23 +99,23 @@ msgid "Can not delete a role on the same level as yours"
 msgstr "Nuk mund të fshish një rol në nivelin tënd"
 
 msgid "Can not delete this role"
-msgstr "Nuk mund të fshish kët rol"
+msgstr "Nuk mund të fshish këtë rol"
 
 msgid "Can not elevate the powerlevel of a role beyond yours"
 msgstr "Nuk mund të ngritësh nivelin e fuqisë së një roli mbi tëndin"
 
 msgid "Can not elevate the powerlevel of a role to yours"
-msgstr "Nuk mund të ngritësh nivelin e fuqisë së një rolin me ty"
+msgstr "Nuk mund të ngritësh nivelin e fuqisë së një roli në nivelin tënd"
 
 #, javascript-format
 msgid "Can not have more than ${ MAX_ROLES_PER_FACTION } faction roles"
-msgstr "Nuk mund të kesh më shum se ${ MAX_ROLES_PER_FACTION } role fraksioni"
+msgstr "Nuk mund të kesh më shumë se ${ MAX_ROLES_PER_FACTION } role fraksioni"
 
 msgid "Can not have more than 20 invites per faction"
 msgstr "Nuk mund të kesh më shumë se 20 ftesa të fraksionit"
 
 msgid "Can not modify user equal to you or above you"
-msgstr "Nuk mund të redaktosh një përdorues baraz ose mbi ty"
+msgstr "Nuk mund të redaktosh një përdorues të barabartë ose mbi ty"
 
 #. when leaving a faction and you are the last owner
 msgid "Can not orphan a faction"
@@ -158,10 +158,10 @@ msgid "Coronavirus"
 msgstr "Koronavirusi"
 
 msgid "Could not change the flag of this role"
-msgstr "Nuk bën të ndryshosh flamurin e ktij roli"
+msgstr "Nuk mund të ndryshohej flamuri i këtij roli"
 
 msgid "Could not change this setting. Maybe try again later."
-msgstr "Nuk bën të ndryshosh kët cilësim. Ndoshta provo më von."
+msgstr "Nuk mund të ndryshohej ky cilësim. Ndoshta provo më vonë."
 
 msgid "Could not close this Session."
 msgstr "Nuk munda të mbyll këtë Seancë."
@@ -400,7 +400,7 @@ msgid "New Password"
 msgstr "Fjalëkalimi i Ri"
 
 msgid "No Avatar given"
-msgstr "Avatari nuk është japur"
+msgstr "Avatari nuk është dhënë"
 
 msgid "No Captcha given"
 msgstr "Nuk është dhënë asnjë Captcha"
@@ -730,7 +730,7 @@ msgid "You are already verified."
 msgstr "Ju tashmë jeni verifikuar."
 
 msgid "You are banned from this faction"
-msgstr "Ti je dëbuar nga ky fraksion"
+msgstr "Ti je i dëbuar nga ky fraksion"
 
 #, javascript-format
 msgid "You are muted for another ${ timeMin } minutes"
@@ -865,8 +865,8 @@ msgstr "Shfletuesi juaj duket i dyshimtë"
 msgid ""
 "Your account must be at least two weeks old before you can create a faction"
 msgstr ""
-"Llogaria e juaj duhet të jetë të paktën 2 javë e vjetër para se të krijosh "
-"një fraksion"
+"Llogaria juaj duhet të jetë të paktën 2 javë e vjetër para se të krijosh një "
+"fraksion"
 
 msgid "Your account needs to be verified to access this page"
 msgstr "Llogaria juaj duhet të jetë e verifikuar për të aksesuar këtë faqe"
