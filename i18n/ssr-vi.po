@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: admin@pixelplanet.fun\n"
-"PO-Revision-Date: 2026-08-18 06:49+0000\n"
+"PO-Revision-Date: 2026-10-08 07:07+0000\n"
 "Last-Translator: Ngvn <ngvn@noreply.pixelplanet.fun>\n"
 "Language-Team: Vietnamese <https://translate.gs-os.com/projects/ppfun/server/"
 "vi/>\n"
@@ -193,7 +193,7 @@ msgid "Description can't be empty"
 msgstr "Phần mô tả không thể để trống"
 
 msgid "Description must be shorter than 1000 characters"
-msgstr "Miêu tả phải ngắn hơn 1000 ký tự"
+msgstr "Phần mô tả phải ngắn hơn 1000 ký tự"
 
 msgid "Display name for your OIDC client"
 msgstr "Tên hiển thị cho máy khách OIDC của bạn"
